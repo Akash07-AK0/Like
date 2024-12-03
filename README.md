@@ -1,13 +1,6 @@
 # Restaurant Management System Web Application
 A user-friendly web application designed to streamline restaurant operations and enhance user experiences. It allows users to register, log in, view menus, select food items, place orders, and generate bills. 
 
-## Table of Contents
-1. [Description](#description)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Acknowledgments](#acknowledgments)
 
 #
 ### Key Features
