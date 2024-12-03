@@ -12,6 +12,10 @@ A user-friendly web application designed to streamline restaurant operations and
 - **Data Integrity**: All user selections reset upon logout, ensuring no residual data.
 - **Data Persistence**: Ensures that all critical data (user accounts, orders, menu items) are stored securely.
 - **Responsive Design**: Optimized for various devices, providing an excellent user experience on both desktop and mobile.
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript (Responsive Design for cross-device compatibility).
+- **Backend**: Java, Servlets, JDBC for server-side logic and database interactions.
+- **Database**: MySQL for managing user data, orders, and menu items.
 
 ## Installation
 1. Clone the repository:
